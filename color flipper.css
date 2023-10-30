@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    padding: 10px 5px 0px 5px;
+   border-bottom: 2px solid black;
+}
+
+.right{
+    text-align: right;
+}
+.container h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+#bg1{
+ height: 100vh;
+}
+#bg{
+text-align: center;
+padding: 10%;
+}
+#bg h1{
+    font-size: 50px;
+}
+button{
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    
+}
